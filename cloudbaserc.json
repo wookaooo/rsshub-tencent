@@ -13,7 +13,7 @@
           "uploadType": "image",
           "containerPort": 1200,
           "imageInfo": {
-            "imageUrl": "ccr.ccs.tencentyun.com/tcb_public/diygod_rsshub:latest"
+            "imageUrl": "tencentcloudbase/cloudbase-framework-runner:latest"
           },
           "envVariables": {}
         }
